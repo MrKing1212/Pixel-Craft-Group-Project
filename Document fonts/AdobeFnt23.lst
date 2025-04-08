@@ -1,0 +1,242 @@
+%!Adobe-FontList 1.23
+%Locale:0xc01
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Italic
+FamilyName:Adobe Arabic
+StyleName:Italic
+FullName:Adobe Arabic Italic
+MenuName:Adobe Arabic
+StyleBits:1
+FamilyNameNative:Adobe Arabic
+StyleNameNative:Italic
+FullNameNative:Adobe Arabic Italic
+WritingScript:Arabic
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\AdobeArabic-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:339276
+FileModTime:1732369373
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Adobe Arabic Italic
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic Regular
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:Adobe Arabic
+StyleNameNative:Regular
+FullNameNative:Adobe Arabic Regular
+WritingScript:Arabic
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299680
+FileModTime:1732369373
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+FamilyPrefix:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Montserrat-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:688600
+FileModTime:1730940568
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Black
+FamilyName:Roboto
+StyleName:Black
+FullName:Roboto Black
+MenuName:Roboto Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Roboto-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147424
+FileModTime:1736376660
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Black
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-BoldItalic
+FamilyName:Roboto
+StyleName:Bold Italic
+FullName:Roboto Bold Italic
+MenuName:Roboto
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Roboto-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153096
+FileModTime:1736376660
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-ExtraBold
+FamilyName:Roboto
+StyleName:ExtraBold
+FullName:Roboto ExtraBold
+MenuName:Roboto ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Roboto-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:146900
+FileModTime:1736376660
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto ExtraBold
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Italic
+FamilyName:Roboto
+StyleName:Italic
+FullName:Roboto Italic
+MenuName:Roboto
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Roboto-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152208
+FileModTime:1736376660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto Regular
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\Roboto-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:146004
+FileModTime:1736376660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+FullName:Times New Roman Bold
+MenuName:Times New Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\timesbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1175904
+FileModTime:1575709707
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman Bold
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-ItalicMT
+FamilyName:Times New Roman
+StyleName:Italic
+FullName:Times New Roman Italic
+MenuName:Times New Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Final AI Magazine Folder\Document fonts\timesi.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:940288
+FileModTime:1575709707
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Times New Roman Italic
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
